@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm curently learning (c/c++) to do some plug in tôuse with DAW !
+I'm curently learning (c/c++) to do some plug in to use with DAW.
 I'm musician and have my own music studios, contact me for colab, mix mastering or informations about Live or Protools ! 
 music's my life, new tech my hobby !
 
